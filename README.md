@@ -1,4 +1,4 @@
-# Persuasvie-Argument-Analysis
+# Persuasive-Argument-Analysis
 A toy study into the social dynamics and language characteristics of persuasive arguments as well as openness vs. resistance to persuasion.
 
 This study is heavily inspired by this [paper](https://chenhaot.com/pubs/winning-arguments.pdf).
